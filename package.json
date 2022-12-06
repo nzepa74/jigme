@@ -17,7 +17,7 @@
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
     "native-base": "^2.13.8",
-    "qs": "^6.9.1",
+    "qs": "^6.9.7",
     "random-string": "^0.2.0",
     "react": "16.9.0",
     "react-native": "0.61.4",
